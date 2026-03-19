@@ -20,7 +20,7 @@ TokyoMotion Downloader is a browser extension for users who want a cleaner way t
 
 ## Preview
 
-![TokyoMotion Downloader workflow preview](assets/workflow-preview.svg)
+![TokyoMotion Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
