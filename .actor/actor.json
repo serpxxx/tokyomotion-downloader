@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "tokyomotion-downloader",
   "readme": "../ACTOR.md",
-  "title": "Tokyomotion Video Downloader | How to Download Tokyomotion Videos",
+  "title": "Tokyomotion Video Downloader | Download Tokyomotion Videos",
   "version": "0.0"
 }
