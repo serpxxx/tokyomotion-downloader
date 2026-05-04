@@ -1,6 +1,10 @@
-# TokyoMotion Downloader
+# Tokyomotion Video Downloader | How to Download Tokyomotion Videos
 
 > Download supported TokyoMotion videos as MP4 files from the browser with direct quality selection.
+
+## Get it Here
+
+Get it here: https://serp.ly/tokyomotion-downloader
 
 ![Tokyomotion Downloader](https://raw.githubusercontent.com/serpxxx/tokyomotion-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ TokyoMotion Downloader is a browser extension for users who want a cleaner way t
 - Save finished files as standard MP4
 - Use in-page controls, popup controls, or right-click actions
 - Keep downloads organized in a dedicated folder
-
-## Get it Here
-
-Get it here: https://serp.ly/tokyomotion-downloader
-
 ## Table of Contents
 
 - [Why TokyoMotion Downloader](#why-tokyomotion-downloader)
